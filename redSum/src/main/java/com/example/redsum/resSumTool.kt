@@ -1,6 +1,6 @@
 package com.example.redsum
 
 class resSumTool {
-    var string : String?=null // 20
+    var string : String?=null // 21
 
 }
