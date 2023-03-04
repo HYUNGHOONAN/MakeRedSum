@@ -9,4 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     // Addmaster
+    // 알림 기능이 추가 됐습니다.
 }
