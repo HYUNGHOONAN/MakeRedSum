@@ -15,4 +15,5 @@ class MainActivity : AppCompatActivity() {
     // 푸시 관련된 내용 - commit 1
     // 푸시 관련된 내용 - commit 2
     // MakeRedSum 에서 commit 1
+    // MakeRedSum A 에서 commit 3
 }
